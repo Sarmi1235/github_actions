@@ -1,2 +1,2 @@
 ﻿# github-actions-aug
-console.log ("I did it")
+console.log ("Yes")
